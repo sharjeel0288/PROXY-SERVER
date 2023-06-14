@@ -1,0 +1,3 @@
+Invoke-WebRequest http://info.ern.ch -Verbose -Proxy http://localhost:4444
+Invoke-WebRequest http://www.google.com -Verbose -Proxy http://localhost:4444
+Invoke-WebRequest https://github.com -Verbose -Proxy http://localhost:4444

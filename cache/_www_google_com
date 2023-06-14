@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Date: Tue, 21 Mar 2023 18:39:06 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=UTF-8
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: 1P_JAR=2023-03-21-18; expires=Thu, 20-Apr-2023 18:39:06 GMT; path=/; domain=.google.com; Secure
+Set-Cookie: AEC=ARSKqsLescWMkuBRCxplCTY64HVAv_hiug53r8y9udW_GCoR8JNUntodJR4; expires=Sun, 17-Sep-2023 18:39:06 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+Set-Cookie: NID=511=kz_cUm754_zx7S6p8Q9ezkMxmPco41c6zetX6-yFCmrXfDXOUBDsFDIpDj31ycfwERaHP6Ru8WEytOynEqlfVATiRv1AdHyUOa219U94XFaTpAkNk1t2QStESo3Cq_uNtcCjnff9YSF9qg87FbcprhQyp--YkDQALqPoNQ8-vXQ; expires=Wed, 20-Sep-2023 18:39:06 GMT; path=/; domain=.google.com; HttpOnly
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+543e
+<!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="en-PK"><head><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="/logos/doodles/2023/nowruz-2023-6753651837109853.2-l.png" itemprop="image"><meta content="Nowruz 2023" property="twitter:title"><meta content="Happy Nowruz #GoogleDoodle" property="twitter:description"><meta content="Happy Nowruz #GoogleDoodle" property="og:description"><meta content="summary_large_image" property="twitter:card"><meta content="@GoogleDoodles" property="twitter:site"><meta content="https://www.google.com/logos/doodles/2023/nowruz-2023-6753651837109853-2x.png" property="twitter:image"><meta content="https://www.google.com/logos/doodles/2023/nowruz-2023-6753651837109853-2x.png" property="og:image"><meta content="1000" property="og:image:width"><meta content="400" property="og:image:height"><title>Google</title><script nonce="vmHZjqp5TllfJjzFrM-pxQ">(function(){window.google={kEI:'yvkZZOfFDKCfseMP79SRuAo',kEXPI:'0,1359409,6058,207,2415,2389,2316,383,246,5,1129120,1626,1196127,648,171,379919,16114,28684,22431,1361,284,12033,17582,4998,13228,3847,35735,2709,2872,2891,4140,4208,4012,54143,6546,15757,3,576,1014,1,5444,11472,2652,4,1528,2304,42127,13658,4437,9358,7428,5830,2527,4094,7596,1,42154,2,16737,21266,1758,5679,1021,31121,4569,6258,23418,1246,5841,12137,3,2828,4332,7484,445,2,2,1,26632,8155,7381,2,15968,872,19636,6,1921,5784,25386,388,14375,6305,20199,20136,14,82,20206,1622,1779,4976,8378,6513,4097,253,4131,991,2597,433,427,5684,1314,96,890,7405,1804,7550,184,495,1150,1093,1649,108,96,423,608,450,436,7465,5127,6263,537,1361,631,2,349,856,2044,666,2,1172,1073,508,698,264,593,202,560,1299,506,662,1252,380,149,1461,222,864,5,187,3630,1433,224,664,2528,703,352,395,680,349,598,150,393,2,1570,8,1569,128,1663,5,663,293,1444,279,400,76,273,259,170,863,129,337,222,23,197,248,891,3,1364,267,13,3,482,60,14,659,34,753,856,358,3,149,499,628,265,80,2,81,684,337,945,14,781,4,329,5,468,3,140,195,607,1073,88,918,198,532,694,3,5224251,298,135,261,8798452,3306,141,795,19735,1,1,346,4604,17,10,23945854,4042142,1964,16673,2893,512,5738,12561,1539,1451,368,588,1414289',kBL:'7Ep8'};google.sn='webhp';google.kHL='en-PK';})();(function(){
+var f=this||self;var h,k=[];function l(a){for(var b;a&&(!a.getAttribute||!(b=a.getAttribute("eid")));)a=a.parentNode;return b||h}function m(a){for(var b=null;a&&(!a.getAttribute||!(b=a.getAttribute("leid")));)a=a.parentNode;return b}
+function n(a,b,c,d,g){var e="";c||-1!==b.search("&ei=")||(e="&ei="+l(d),-1===b.search("&lei=")&&(d=m(d))&&(e+="&lei="+d));d="";!c&&f._cshid&&-1===b.search("&cshid=")&&"slh"!==a&&(d="&cshid="+f._cshid);c=c||"/"+(g||"gen_204")+"?atyp=i&ct="+a+"&cad="+b+e+"&zx="+Date.now()+d;/^http:/i.test(c)&&"https:"===window.location.protocol&&(google.ml&&google.ml(Error("a"),!1,{src:c,glmm:1}),c="");return c};h=google.kEI;google.getEI=l;google.getLEI=m;google.ml=function(){return null};google.log=function(a,b,c,d,g){if(c=n(a,b,c,d,g)){a=new Image;var e=k.length;k[e]=a;a.onerror=a.onload=a.onabort=function(){delete k[e]};a.src=c}};google.logUrl=n;}).call(this);(function(){google.y={};google.sy=[];google.x=function(a,b){if(a
